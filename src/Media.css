@@ -1,0 +1,84 @@
+@media only screen and (min-width:300px) and (max-width:567px){
+	.section2_row1{
+		font-size:19px!important;
+
+	}
+
+	.logo{
+		width: 110px!important;
+	}
+
+	.section2_row2{
+		font-size: 20px;
+	}
+
+	.section1_row1{
+		font-size: 25px!important;
+		text-align: center;
+		line-height: normal;
+		padding-top: 20px;
+	}
+
+	.dottade{
+		display: none;
+	}
+
+	.dottade2{
+		display: none;
+	}
+
+	.section7{
+		height: 325px;
+	}
+
+	.section7_row1{
+		font-size: 19px;
+	}
+
+	.Tab{
+		margin-top:0px;
+		padding-top: 0px!important;
+	  }
+
+	.client{
+		background: linear-gradient(270deg,#fef1f1 100%,transparent 0);
+	}
+
+	.clientext{
+		padding-top:0px;
+		position: relative;
+		top: -20px;
+	}
+
+	.coat{
+		display: none;
+	}
+	.dottad{
+		display: none;
+	}
+
+	
+}
+
+@media only screen and (min-width:567px) and (max-width:900px){
+	.section7{
+		height: 600px;
+		padding-bottom: 2px;
+	}
+
+	.clientext{
+		padding-top:0px;
+		position: relative;
+		top: 0px;
+	}
+	.navbar-nav{
+		align-items:center;
+	  }
+}
+
+@media only screen and (min-width:900px){
+
+	.navbar-nav{
+		align-items:center;
+	  }
+}
